@@ -8,7 +8,7 @@ Open a terminal and run the following commands
 
 1. Clone the repo
     ```sh
-    git clone --recursive https://github.com/github_username/repo_name.git
+    git clone --recursive https://github.com/HugoKempe/MyReactWebsite
     ```
 1. Change directory
     ```sh
