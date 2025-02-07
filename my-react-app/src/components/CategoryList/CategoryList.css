@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.category-list {
+  padding: 10px;
+  background-color: rgb(240, 240, 240);
+  border: 1px solid #ddd;
+}

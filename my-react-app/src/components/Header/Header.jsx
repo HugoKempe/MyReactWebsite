@@ -19,6 +19,7 @@ function Header() {
         </ul>
       </nav>
       <hr />
+      <button className="bg-sky-500 hover:bg-sky-700">Save changes</button>
     </header>
   );
 }

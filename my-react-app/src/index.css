@@ -1,1 +1,78 @@
 @import "tailwindcss";
+
+:root {
+  /* Polar Night */
+  --nord0: #2e3440;
+  --nord1: #3b4252;
+  --nord2: #434c5e;
+  --nord3: #4c566a;
+
+  /* Snow Storm */
+  --nord4: #d8dee9;
+  --nord5: #e5e9f0;
+  --nord6: #eceff4;
+
+  /* Polar Night */
+  --nord7: #8fbcbb;
+  --nord8: #88c0d0;
+  --nord9: #81a1c1;
+  --nord10: #5e81ac;
+
+  /* Aurora */
+  --nord11: #bf616a;
+  --nord12: #d08770;
+  --nord13: #ebcb8b;
+  --nord14: #a3be8c;
+  --nord15: #b48ead;
+
+  /* Primary Colors */
+  --primary-color: var(--nord8);
+  --primary-light-color: var(--nord7);
+  --primary-dark-color: var(--nord9);
+
+  /* Secondary Colors */
+  --secondary-color: var(--nord10);
+  --secondary-light-color: var(--nord10);
+  --secondary-dark-color: var(--nord10);
+
+  /* Neutral Colors */
+  --white-color: var(--nord6);
+  --black-color: var(--nord0);
+  --gray-light-color: var(--nord4);
+  --gray-color: var(--nord3);
+  --gray-dark-color: var(--nord2);
+
+  /* Background Colors */
+  --background-color: var(--nord1);
+  --background-light-color: var(--nord2);
+  --background-dark-color: var(--nord0);
+
+  /* Text Colors */
+  --text-color-light: #ffffff;
+  --text-color-dark: #333333;
+
+  /* Accent Colors */
+  --accent-color: var(--nord15);
+  --accent-light-color: var(--nord15);
+  --accent-dark-color: var(--nord15);
+
+  /* Warning Colors */
+  --warning-color: var(--nord13);
+  --warning-light-color: var(--nord13);
+  --warning-dark-color: var(--nord13);
+
+  /* Success Colors */
+  --success-color: var(--nord14);
+  --success-light-color: var(--nord14);
+  --success-dark-color: var(--nord14);
+
+  /* Error Colors */
+  --error-color: var(--nord11);
+  --error-light-color: var(--nord11);
+  --error-dark-color: var(--nord11);
+
+  /* Info Colors */
+  --info-color: var(--nord12);
+  --info-light-color: var(--nord12);
+  --info-dark-color: var(--nord12);
+}
