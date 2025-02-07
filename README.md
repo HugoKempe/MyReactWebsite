@@ -4,6 +4,8 @@ This is my epic website i wrote using React with vanilla JavaScript
 
 ## Getting Started
 
+### Setup
+
 Open a terminal and run the following commands
 
 1. Clone the repo
@@ -22,3 +24,16 @@ Open a terminal and run the following commands
     ```
     npm run dev
     ```
+
+---
+
+## Useful Links
+
+### Documentation
+
+#### Tailwind CSS
+
+* > [installation using vite](https://tailwindcss.com/docs/installation/using-vite)
+
+
+### Other links
