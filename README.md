@@ -2,6 +2,9 @@
 
 This is my epic website i wrote using React with vanilla JavaScript
 
+## Build With
+[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
+
 ## Getting Started
 
 ### Setup
@@ -35,5 +38,10 @@ Open a terminal and run the following commands
 
 * > [installation using vite](https://tailwindcss.com/docs/installation/using-vite)
 
+### Color Palettes
+
+* > [Nord](https://www.nordtheme.com/docs/colors-and-palettes)
 
 ### Other links
+
+* > [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
